@@ -16,6 +16,7 @@
     "SonarSource.sonarlint-vscode",
     "esbenp.prettier-vscode",
     "mintlify.document",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "vscode-icons-team.vscode-icons"
   ]
 }
