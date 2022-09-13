@@ -3,9 +3,7 @@
     "capaj.vscode-standardjs-snippets",
     "nicoespeon.abracadabra",
     "p42ai.refactor",
-    "Orta.vscode-jest",
     "firsttris.vscode-jest-runner",
-    "markis.code-coverage",
     "christian-kohler.npm-intellisense",
     "kisstkondoros.vscode-codemetrics",
     "streetsidesoftware.code-spell-checker",
@@ -18,7 +16,6 @@
     "SonarSource.sonarlint-vscode",
     "esbenp.prettier-vscode",
     "mintlify.document",
-    "VisualStudioExptTeam.vscodeintellicode",
     "redhat.vscode-yaml"
   ]
 }
