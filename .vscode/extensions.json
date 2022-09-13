@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "capaj.vscode-standardjs-snippets",
+    "nicoespeon.abracadabra",
+    "p42ai.refactor",
+    "Orta.vscode-jest",
+    "firsttris.vscode-jest-runner",
+    "markis.code-coverage",
+    "christian-kohler.npm-intellisense",
+    "kisstkondoros.vscode-codemetrics",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-spanish",
+    "michelemelluso.gitignore",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "christian-kohler.path-intellisense",
+    "stkb.rewrap",
+    "SonarSource.sonarlint-vscode",
+    "esbenp.prettier-vscode",
+    "mintlify.document",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "redhat.vscode-yaml"
+  ]
+}
