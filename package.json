@@ -10,7 +10,7 @@
     "installDependencies": "npm i",
     "build": "tsc",
     "test": "jest --clearCache &&  jest --coverage",
-    "coverage": "open-cli coverage/index.html"
+    "coverage": "open-cli coverage/index.html --wait"
   },
   "repository": {
     "type": "git",
